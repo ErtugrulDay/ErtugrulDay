@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ertuğrul</h1>
 - 🌱 I’m currently learning **Natural Language Processing, Machine Learning, Data Science, Deep Learning and Image Processing**
 
-- 💬 Ask me about **Python, SQL, OpenCV,Tensorflow**
+- 💬 Ask me about **Python, SQL, AI, OpenCV, Tensorflow**
 
 - 📫 How to reach me **ertugruldayy@gmail.com**
 
